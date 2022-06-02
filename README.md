@@ -1,4 +1,4 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
+<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.png"  height="200px" width="900px" />
 <h4 align="center">Hi 👋,  Fellow < Developers/ ></h4>
 
 <p align="center">
